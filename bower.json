@@ -23,7 +23,6 @@
   "description": "branch including build from original fine-uploader",
   "license": "GPLV3",
   "ignore": [
-    "**/.*",
     "node_modules",
     "bower_components",
     "test",
