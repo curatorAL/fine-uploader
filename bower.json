@@ -1,6 +1,6 @@
 {
   "name": "fine-uploader-build",
-  "version": "5.0.2",
+  "version": "5.0.3",
   "main": "./_build/all.fineuploader.js",
   "devDependencies": {
     "jquery": "1.10.0",
