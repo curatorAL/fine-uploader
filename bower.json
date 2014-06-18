@@ -1,6 +1,6 @@
 {
-  "name": "fine-uploader-build",
-  "version": "5.0.3",
+  "name": "fineuploader-curator",
+  "version": "1.0.0",
   "main": "./_build/all.fineuploader.js",
   "devDependencies": {
     "jquery": "1.10.0",
@@ -15,5 +15,18 @@
       "js": "mocha.js",
       "css": "mocha.css"
     }
-  }
+  },
+  "homepage": "https://github.com/curatorAL/fine-uploader",
+  "authors": [
+    "Ben Dean <bdean@artandlogic.com>"
+  ],
+  "description": "branch including build from original fine-uploader",
+  "license": "GPLV3",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
 }
