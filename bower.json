@@ -1,5 +1,5 @@
 {
-  "name": "fine-uploader",
+  "name": "fine-uploader-build",
   "version": "5.0.2",
   "main": "./_build/all.fineuploader.js",
   "devDependencies": {
