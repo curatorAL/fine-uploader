@@ -1,5 +1,5 @@
 {
-  "name": "fineuploader",
+  "name": "fineuploader-build",
   "title": "Fine Uploader",
   "version": "5.0.2",
   "description": "Multiple file upload component with progress-bar, drag-and-drop, support for all modern browsers.",
@@ -25,7 +25,8 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/Widen/fine-uploader.git"
+    "url": "git://github.com/curatorAL/fine-uploader.git"
+
   },
   "author": "Widen Enterprises, Inc.",
   "licenses": [
